@@ -11,11 +11,18 @@
   "dependencies": {
     "vue": "^3.2.45"
   },
-  "files" :[
+  "files": [
     "dist"
   ],
+  "release": {
+    "branches": ["main", "next"]
+  },
+  "repository": {
+    "url": "https://github.com/AlexMargk2112/sample_npm_library"
+  },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
+    "semantic-release": "^20.1.0",
     "typescript": "^4.9.3",
     "vite": "^4.0.0",
     "vue-tsc": "^1.0.24"
