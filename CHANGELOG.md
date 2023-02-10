@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v1.1.2...v2.0.0) (2023-02-10)
+
+
+### Bug Fixes
+
+* something bad ([62d2101](https://github.com/AlexMargk2112/sample_npm_library/commit/62d210196a3f51fbc15b04a0482765be94250105))
+
+
+### BREAKING CHANGES
+
+* `extends` key in config file is
+
 ## [1.1.2](https://github.com/AlexMargk2112/sample_npm_library/compare/v1.1.1...v1.1.2) (2023-02-10)
 
 
