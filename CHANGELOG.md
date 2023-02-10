@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.0.0...v2.0.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* package.json ([9a21fc7](https://github.com/AlexMargk2112/sample_npm_library/commit/9a21fc7a6b6cda60fce948d2533b9d10f93d981c))
+
 # [2.0.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v1.1.2...v2.0.0) (2023-02-10)
 
 
