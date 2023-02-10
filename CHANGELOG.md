@@ -1,3 +1,11 @@
+## [2.1.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.0...v2.1.1) (2023-02-10)
+
+
+### Bug Fixes
+
+* add missing dep ([cccf2b7](https://github.com/AlexMargk2112/sample_npm_library/commit/cccf2b7293c95ecd809ebc240c55257b90b40ab2))
+* thing with npm ([d4cd9ae](https://github.com/AlexMargk2112/sample_npm_library/commit/d4cd9aed93e699b631c133f22de87b75dc8a7adc))
+
 ## [2.0.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.0.0...v2.0.1) (2023-02-10)
 
 
