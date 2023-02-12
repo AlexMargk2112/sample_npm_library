@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.2.0...v2.2.1) (2023-02-12)
+
+
+### Bug Fixes
+
+* workflow ([df55dfd](https://github.com/AlexMargk2112/sample_npm_library/commit/df55dfdcbdd83f14d3bb73e8fd1664f7f0a88914))
+
 # [2.2.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.4...v2.2.0) (2023-02-12)
 
 
