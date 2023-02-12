@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.0.0...v3.1.0) (2023-02-12)
+
+
+### Features
+
+* update workflow ([1cb5408](https://github.com/AlexMargk2112/sample_npm_library/commit/1cb540845b0b17cc34d861f47e534d5f0e746786))
+
 # [3.0.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.3.0...v3.0.0) (2023-02-12)
 
 
