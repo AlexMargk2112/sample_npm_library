@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.3.0...v3.0.0) (2023-02-12)
+
+
+### Features
+
+* remove somthing ([154f0b8](https://github.com/AlexMargk2112/sample_npm_library/commit/154f0b8d27455aaeb8594cc6b38b03a9d53a6111))
+
+
+### BREAKING CHANGES
+
+* some good explanation for breaking change
+
 # [2.3.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.2.3...v2.3.0) (2023-02-12)
 
 
