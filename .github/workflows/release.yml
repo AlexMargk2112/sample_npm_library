@@ -5,6 +5,10 @@ on:
       - main
 jobs:
   release:
+    permissions:
+        contents: write
+        issues: write
+        pull-requests: write
     name: Release
     runs-on: ubuntu-latest
     steps:
@@ -22,4 +26,3 @@ jobs:
         run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.AUTO_RELEASE_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
