@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.4...v2.2.0) (2023-02-12)
+
+
+### Features
+
+* add auto-release ([00528e6](https://github.com/AlexMargk2112/sample_npm_library/commit/00528e685ccb1b84add0753878d8e6f3b7c0e6c0))
+
 ## [2.1.4](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.3...v2.1.4) (2023-02-12)
 
 
