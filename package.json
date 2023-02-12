@@ -1,6 +1,6 @@
 {
   "name": "alexanter-npm-sam-release",
-  "private": true,
+  "private": false,
   "version": "2.1.2",
   "type": "module",
   "scripts": {
