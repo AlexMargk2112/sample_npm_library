@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.2.3...v2.3.0) (2023-02-12)
+
+
+### Features
+
+* fix permissions ([8cfaeca](https://github.com/AlexMargk2112/sample_npm_library/commit/8cfaeca27eb77a5a31cd3b6370b4ab40420b66fc))
+
 ## [2.2.3](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.2.2...v2.2.3) (2023-02-12)
 
 
