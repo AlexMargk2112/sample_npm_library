@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.2...v2.1.3) (2023-02-12)
+
+
+### Bug Fixes
+
+* update publish ([f32f14d](https://github.com/AlexMargk2112/sample_npm_library/commit/f32f14d43401bd48f7a1c716fdd07af81a6d32c1))
+
 ## [2.1.2](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.1...v2.1.2) (2023-02-10)
 
 
