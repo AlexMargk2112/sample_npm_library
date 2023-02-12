@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.2.2...v2.2.3) (2023-02-12)
+
+
+### Bug Fixes
+
+* workflow pipe ([62965dd](https://github.com/AlexMargk2112/sample_npm_library/commit/62965dddc1100f9744de9260c83b7c3d83a09381))
+
 ## [2.2.2](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.2.1...v2.2.2) (2023-02-12)
 
 
