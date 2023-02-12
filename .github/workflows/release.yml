@@ -7,10 +7,6 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-
-    permissions:
-      repository-projects: write
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -25,5 +21,5 @@ jobs:
       - name: Release
         run: npx semantic-release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AUTO_RELEASE_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
