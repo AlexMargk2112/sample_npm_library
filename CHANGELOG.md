@@ -1,3 +1,10 @@
+## [2.1.4](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.3...v2.1.4) (2023-02-12)
+
+
+### Bug Fixes
+
+* update permissions ([c3498ee](https://github.com/AlexMargk2112/sample_npm_library/commit/c3498ee4ab3b8ed387dda9789abdc61aaa7e2bb4))
+
 ## [2.1.3](https://github.com/AlexMargk2112/sample_npm_library/compare/v2.1.2...v2.1.3) (2023-02-12)
 
 
