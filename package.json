@@ -55,7 +55,6 @@
   "repository": {
     "url": "https://github.com/AlexMargk2112/sample_npm_library"
   },
-  
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
