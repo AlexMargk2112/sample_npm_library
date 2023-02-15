@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.2.0...v3.2.1) (2023-02-15)
+
+
+### Bug Fixes
+
+* add husky in workflow ([e1d65a3](https://github.com/AlexMargk2112/sample_npm_library/commit/e1d65a3203e7746bd878c6a5740f01c95ba4c31e))
+
 # [3.2.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.1.1...v3.2.0) (2023-02-15)
 
 
