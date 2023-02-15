@@ -22,7 +22,14 @@ jobs:
       - name: Install dependencies
         run: npm ci && npm run build
       - name: Release
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.AUTO_RELEASE_TOKEN }}
-        run: npx semantic-release
+        script:
+          - export GH_TOKEN=${{ secrets.NPM_TOKEN }}
+          - export NPM_TOKEN=${{ secrets.NPM_TOKEN }}
+          - export CI=true
+          - export HUSKY_SKIP_HOOKS=1
+          - npm run build
+          - npx semantic-release
+        # env:
+        #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        #   GITHUB_TOKEN: ${{ secrets.AUTO_RELEASE_TOKEN }}
+        # run: npx semantic-release
