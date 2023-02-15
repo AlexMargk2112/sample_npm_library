@@ -1,3 +1,11 @@
+# [3.2.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.1.1...v3.2.0) (2023-02-15)
+
+
+### Features
+
+* change manger ([db8959d](https://github.com/AlexMargk2112/sample_npm_library/commit/db8959dc560d853bd714a12349bd760dbd98ae4c))
+* test the flow ([ececfb9](https://github.com/AlexMargk2112/sample_npm_library/commit/ececfb9113ebe140591004ffe211a0ce9ea9c26f))
+
 ## [3.1.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.1.0...v3.1.1) (2023-02-15)
 
 
