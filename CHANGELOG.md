@@ -1,3 +1,13 @@
+## [3.1.1](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.1.0...v3.1.1) (2023-02-15)
+
+
+### Bug Fixes
+
+* workflow ([9d2ccbf](https://github.com/AlexMargk2112/sample_npm_library/commit/9d2ccbf32a9e8960ac49ac19b9c23fa0c29fbcac))
+* workflow ([3f45533](https://github.com/AlexMargk2112/sample_npm_library/commit/3f4553304526ac8d5c3aa6a001d104f0c26a0c50))
+* workflow ([6f6bd59](https://github.com/AlexMargk2112/sample_npm_library/commit/6f6bd59f8c53f707ce8d93d3b8ab87ae63bed2f2))
+* workflow ([4cdb7be](https://github.com/AlexMargk2112/sample_npm_library/commit/4cdb7be9dfc49185324cb5f6d23db2d491117541))
+
 # [3.1.0](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.0.0...v3.1.0) (2023-02-12)
 
 
