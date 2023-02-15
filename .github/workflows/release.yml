@@ -25,4 +25,4 @@ jobs:
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.AUTO_RELEASE_TOKEN }}
-        run: export HUSKY_SKIP_HOOKS=1 && npx semantic-release
+        run: npx semantic-release
