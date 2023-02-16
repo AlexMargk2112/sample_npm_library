@@ -21,6 +21,11 @@ jobs:
           node-version: "lts/*"
       - name: Install dependencies
         run: npm ci && npm run build
+      - name: setup git config
+        run: |
+          # setup the username and email. I tend to use 'GitHub Actions Bot' with no email by default
+          git config user.name "Essence Autorelease Bot"
+          git config user.email "<>"
       - name: Release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
