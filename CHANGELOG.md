@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.3.11](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.3.10...v3.3.11) (2023-02-16)
+
+
+### Bug Fixes
+
+* workflow trigger ([df1b489](https://github.com/AlexMargk2112/sample_npm_library/commit/df1b48994f654d580a1e9f227bde5cf3c4f4139e))
+
 ### [3.3.10](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.3.9...v3.3.10) (2023-02-16)
 
 
