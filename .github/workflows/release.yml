@@ -33,6 +33,6 @@ jobs:
           yarn release && git push --follow-tags
       - name: Get Release
         run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
-      - name: Get Release
-        run: npm install gh-release && gh-release -n ${{ env.RELEASE_VERSION }} -c main
+      - name: Publish Release
+        run: gh release create ${{ env.RELEASE_VERSION }}
 
