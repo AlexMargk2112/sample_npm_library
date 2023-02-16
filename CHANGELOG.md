@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.4.5](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.4.4...v3.4.5) (2023-02-16)
+
+
+### Bug Fixes
+
+* token issue ([2741194](https://github.com/AlexMargk2112/sample_npm_library/commit/2741194130021367be794681fb8e5db7311ef4af))
+
 ### [3.4.4](https://github.com/AlexMargk2112/sample_npm_library/compare/v3.4.3...v3.4.4) (2023-02-16)
 
 
